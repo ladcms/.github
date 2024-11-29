@@ -1,12 +1,9 @@
-## Hi there 👋
+## Всем привет 👋
 
-<!--
+Данная организация предназначена для того чтобы сгрупировать репозитории для CMS - LaDCMS, расшифровывается как Laravel DCMS
 
-**Here are some ideas to get you started:**
+Вдохвленно самописным движком DCMS, который создал человек под ником DESURE
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Ранее был сайт - dcms.su, но в какой-то момент он оказался заброшен!
+
+В этом cms - LaDCMS - я хочу отдать дань cms - DCMS
